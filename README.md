@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, i'm aastha 👋
 
-<!--
-**aastha-mittal/aastha-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs @ carnegie mellon (systems + ML) · swe intern @ hashicorp (ibm) · prev nationwide insurance · ta @ cmu
 
-Here are some ideas to get you started:
+building things at the intersection of systems and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what i'm working on
+- 🔒 lock-free limit order book in C++ (nanosecond-latency matching engine)
+- 🤖 transformer from scratch in PyTorch
+- ⚙️ distributed KV store with Raft consensus in Go
+
+---
+
+### tech
+![Python](https://skillicons.dev/icons?i=python,cpp,go,java,ts,react,postgres,docker,pytorch,tensorflow)
+
+---
+
+### stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aastha-mittal&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-mittal&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
+
+---
+
+### links
+[linkedin](https://linkedin.com/in/aastha-mittal-cs) · [portfolio](https://aastha-mittal.github.io) · aasthami@andrew.cmu.edu
